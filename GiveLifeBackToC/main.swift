@@ -6,18 +6,16 @@
 //  Copyright © 2016 Ergin Bilgin. All rights reserved.
 //
 
-import Foundation
-
-print("Hello, World!")
-
 var i: Int = 0
-i++
+_ = i++
 print(i++)
 print(++i)
 print(i)
-i = 0
-i--
-print(i--)
-print(--i)
-print(i)
+
+var j: Int = 0
+j = 0
+_ = j--
+print(j--)
+print(--j)
+print(j)
 
