@@ -19,7 +19,6 @@ print(++i)  // 3
 print(i)    // 3
 
 var j: Int = 0
-j = 0
 _ = j--
 print(j--)  // -1
 print(--j)  // -3
