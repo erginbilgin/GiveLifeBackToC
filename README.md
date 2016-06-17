@@ -7,7 +7,7 @@ Bring C style increment and decrement operators back to Swift 3.0.
 
 ## Installation
 
-Include GiveLifeBackC.swift to your project.
+Include GiveLifeBackToC.swift to your project.
 
 ## Usage
 
