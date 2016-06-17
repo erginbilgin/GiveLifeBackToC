@@ -13,7 +13,6 @@ print(++i)
 print(i)
 
 var j: Int = 0
-j = 0
 _ = j--
 print(j--)
 print(--j)
